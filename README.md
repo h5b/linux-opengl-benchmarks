@@ -3,7 +3,7 @@ This is a source mirror of [Roy Longbottom's Linux OpenGL Benchmarks](http://www
 In addition, some source files have been thankfully retrieved from [Jérôme Reybert's power testsuite](https://github.com/jreybert/power).
 
 # Dependencies
-Ensure that the following requirements are install on your build host:
+Ensure that the following requirements are installed on your build host:
 * OpenGL Utility Toolkit (GLUT), e.g. freeglut
 * Netwide Assembler (NASM)
 
